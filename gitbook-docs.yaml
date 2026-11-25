@@ -1,11 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Cẩm nang tuyển sinh
+  title: Cẩm nang CRM XTD
   structure:
     - type: space
       key: space-cam-nang-tuyen-sinh
-      title: "Cẩm nang tuyển sinh: hồ sơ, chăm sóc, level"
-      path: tuyen-sinh
+      title: Cẩm nang CRM XTD
+      path: huong-dan
       default: true
       content:
         directory: ./

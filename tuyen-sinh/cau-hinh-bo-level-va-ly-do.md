@@ -46,4 +46,4 @@ Luật theo đặc tả:
 > - Chưa thấy chỗ cấu hình số lần test tối đa và số ngày nhắc lập lại phiếu đã huỷ.
 > - Mô tả đầu trang «Lý do từ chối» còn nhắc mã level cũ.
 
-__Liên quan:__ [Các level và điều kiện vào từng level](./tra-cuu-level-va-dieu-kien.md) · [Quyền theo vai và phạm vi xem](./tra-cuu-quyen-theo-vai.md)
+__Liên quan:__ [Các level và điều kiện vào từng level](./tra-cuu-level-va-dieu-kien.md) · [Quyền theo vai và phạm vi xem](../bat-dau/tra-cuu-quyen-theo-vai.md)

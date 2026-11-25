@@ -34,4 +34,4 @@ Một **gia đình** thuộc phạm vi của bạn khi có ít nhất một cơ 
 
 > **Phần mềm hiện tại:** từ 19/11/2026 phần mềm cho mọi vai xem mọi gia đình (danh sách, hồ sơ, tìm theo mã). Sửa, xoá vẫn theo phạm vi. Cách này khác đặc tả và đang chờ quyết định.
 
-__Liên quan:__ [Quyền theo vai và phạm vi xem](./tra-cuu-quyen-theo-vai.md) · [Việc của bạn theo vai](./viec-cua-ban-theo-vai.md) · [Giao cơ hội chưa phân bổ, giao hàng loạt](./giao-co-hoi-chua-phan-bo.md) · [Đổi người phụ trách cơ hội kèm lý do](./doi-nguoi-phu-trach.md)
+__Liên quan:__ [Quyền theo vai và phạm vi xem](../bat-dau/tra-cuu-quyen-theo-vai.md) · [Việc của bạn theo vai](../bat-dau/viec-cua-ban-theo-vai.md) · [Giao cơ hội chưa phân bổ, giao hàng loạt](./giao-co-hoi-chua-phan-bo.md) · [Đổi người phụ trách cơ hội kèm lý do](./doi-nguoi-phu-trach.md)

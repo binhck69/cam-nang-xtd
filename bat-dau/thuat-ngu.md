@@ -41,4 +41,4 @@
 | Việc cần làm | Một việc có hạn giao cho một người, có thể gắn cơ hội; trạng thái Mở, Xong, Huỷ. Khác việc tiếp theo. |
 | Việc tiếp theo | Bước kế tiếp của một cơ hội: thời điểm, loại (Gọi, Zalo, Hẹn tham quan, Khác), ghi chú ngắn. Mỗi cơ hội tối đa một việc tiếp theo. |
 
-__Liên quan:__ [CRM tuyển sinh dùng để làm gì](./tong-quan-crm-tuyen-sinh.md) · [Câu hỏi thường gặp](./cau-hoi-thuong-gap.md)
+__Liên quan:__ [CRM tuyển sinh dùng để làm gì](../tuyen-sinh/tong-quan-crm-tuyen-sinh.md) · [Câu hỏi thường gặp](../tuyen-sinh/cau-hoi-thuong-gap.md)

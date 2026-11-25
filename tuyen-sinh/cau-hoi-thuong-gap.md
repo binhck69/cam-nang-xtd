@@ -44,4 +44,4 @@ Cơ hội đã được giao cho người khác hoặc chuyển sang đội khá
 __Những gì CRM chưa có?__
 CRM chưa có: thông báo trong hệ thống; tự tạo cơ hội từ fanpage hay form web; chuyển giao việc khi khoá tài khoản; bản nháp chờ khi nhập trúng số của gia đình ngoài phạm vi; gọi điện hay gửi tin ngay từ CRM. Cần những việc này thì làm như hiện nay và ghi lại trên CRM.
 
-__Liên quan:__ [Thuật ngữ](./thuat-ngu.md) · [Việc của bạn theo vai](./viec-cua-ban-theo-vai.md)
+__Liên quan:__ [Thuật ngữ](../bat-dau/thuat-ngu.md) · [Việc của bạn theo vai](../bat-dau/viec-cua-ban-theo-vai.md)

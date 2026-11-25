@@ -51,4 +51,4 @@ Mở lại cơ hội ở L7 cần quyền level phí và bắt nhập lý do tro
 
 __Xử lý khi lỗi:__ [Khi không đổi được level](./su-co-doi-level.md)
 
-__Liên quan:__ [Đổi level theo tiến trình chăm sóc](./doi-level.md) · [Soát cơ hội lệch thu phí](./soat-co-hoi-lech-thu-phi.md) · [Quyền theo vai và phạm vi xem](./tra-cuu-quyen-theo-vai.md)
+__Liên quan:__ [Đổi level theo tiến trình chăm sóc](./doi-level.md) · [Soát cơ hội lệch thu phí](./soat-co-hoi-lech-thu-phi.md) · [Quyền theo vai và phạm vi xem](../bat-dau/tra-cuu-quyen-theo-vai.md)

@@ -30,4 +30,4 @@ Ví dụ: một gia đình có hai con, một con đăng ký chính khoá, một
 - Hệ thống không tự gộp gia đình, không tự chọn người phụ trách, không tự giao lại cơ hội. Gợi ý trùng chỉ để bạn chọn.
 - Ghi hoạt động chăm sóc không làm đổi level. Bạn tự đổi level khi phụ huynh tiến thêm một bước.
 
-__Liên quan:__ [Bộ level và hành trình của một cơ hội](./bo-level-va-hanh-trinh-co-hoi.md) · [Người phụ trách, người trực page và phạm vi xem](./nguoi-phu-trach-va-pham-vi-xem.md) · [Việc của bạn theo vai](./viec-cua-ban-theo-vai.md) · [Thuật ngữ](./thuat-ngu.md)
+__Liên quan:__ [Bộ level và hành trình của một cơ hội](./bo-level-va-hanh-trinh-co-hoi.md) · [Người phụ trách, người trực page và phạm vi xem](./nguoi-phu-trach-va-pham-vi-xem.md) · [Việc của bạn theo vai](../bat-dau/viec-cua-ban-theo-vai.md) · [Thuật ngữ](../bat-dau/thuat-ngu.md)

@@ -44,8 +44,8 @@ Người được giao một việc cần làm luôn đánh dấu Xong được 
 
 ## Phạm vi xem
 
-Phạm vi đặt riêng cho từng người dùng: **của mình**, **của đội**, hoặc **tất cả**. Cách tính xem ở [Người phụ trách, người trực page và phạm vi xem](./nguoi-phu-trach-va-pham-vi-xem.md).
+Phạm vi đặt riêng cho từng người dùng: **của mình**, **của đội**, hoặc **tất cả**. Cách tính xem ở [Người phụ trách, người trực page và phạm vi xem](../tuyen-sinh/nguoi-phu-trach-va-pham-vi-xem.md).
 
 > **Phần mềm hiện tại:** phần mềm có 6 vai: Quản trị, Trưởng nhóm, Tư vấn gọi, Trực page, Kế toán, Hành chính. Một số ô mặc định trên phần mềm đang khác bảng trên. Khi một nút bị tắt hoặc báo không có quyền, nhờ trưởng nhóm hoặc quản trị kiểm màn Phân quyền.
 
-__Liên quan:__ [Việc của bạn theo vai](./viec-cua-ban-theo-vai.md) · [Câu hỏi thường gặp](./cau-hoi-thuong-gap.md)
+__Liên quan:__ [Việc của bạn theo vai](./viec-cua-ban-theo-vai.md) · [Câu hỏi thường gặp](../tuyen-sinh/cau-hoi-thuong-gap.md)
