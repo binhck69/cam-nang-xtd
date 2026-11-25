@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: Cẩm nang tuyển sinh
+  structure:
+    - type: space
+      key: space-cam-nang-tuyen-sinh
+      title: "Cẩm nang tuyển sinh: hồ sơ, chăm sóc, level"
+      path: tuyen-sinh
+      default: true
+      content:
+        directory: ./
+        language: vi
