@@ -1,6 +1,7 @@
 # Mục lục
 
 * [Giới thiệu](README.md)
+* [Có gì mới](co-gi-moi.md)
 
 ## Bắt đầu
 

@@ -13,3 +13,4 @@ Hướng dẫn dùng phần mềm CRM của Trường Xanh Tuệ Đức, dành c
 - Tên màn hình, nút và câu báo theo phần mềm ngày 23/11/2026.
 - Ô «Phần mềm hiện tại» ghi những chỗ phần mềm đang làm khác hoặc chưa có.
 - Ảnh chụp trên máy thử với hồ sơ mẫu tên "Thử Ảnh"; dữ liệu khác đã làm mờ.
+- Các lần cập nhật: xem [Có gì mới](co-gi-moi.md).

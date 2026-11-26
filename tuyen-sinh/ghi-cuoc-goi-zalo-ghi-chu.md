@@ -46,6 +46,8 @@ Bạn cũng mở được hộp này từ tab «Lịch sử»: chọn «Cuộc g
 
 Tab «Lịch sử» chia hai phần: «Sắp tới» (việc và lịch hẹn chưa tới, tối đa 3 mục, bấm «Xem tất cả» để xem hết) và «Đã qua». Lọc theo loại bằng các nút «Tất cả», «Cuộc gọi», «Zalo», «Ghi chú», «Hẹn», «Hệ thống».
 
+Gia đình còn cơ hội khác thì đầu tab «Lịch sử» có nút «Cơ hội này» / «Cả gia đình». Chọn «Cả gia đình» để xem gộp nhật ký của mọi cơ hội trong gia đình, mới nhất ở trên. Mỗi dòng ghi học sinh · khoá; bấm vào để mở đúng cơ hội đó. Dòng của cơ hội bạn không có quyền xem bị làm mờ, chỉ hiện loại hoạt động, giờ và câu "Cơ hội thầy/cô không có quyền xem". Gia đình có rất nhiều hoạt động thì chỉ hiện các hoạt động gần nhất (tối đa 300). Mở sang cơ hội khác thì tab trở về «Cơ hội này».
+
 Ghi hoạt động không làm đổi level. Hoạt động hệ thống tự ghi (vd liên hệ lại, xong việc tiếp theo) không sửa được.
 
 > **Phần mềm hiện tại:** đặc tả cho người ghi sửa hoạt động của mình trong 24 giờ đầu, và cho quản trị ẩn hoạt động ghi nhầm. Phần mềm chưa có hai việc này: ghi nhầm thì ghi thêm một dòng đính chính. Đặc tả có loại Nhắn tin (Zalo, Messenger, SMS) và Gặp; phần mềm hiện có Cuộc gọi, Zalo, Ghi chú.
